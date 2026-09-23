@@ -180,7 +180,7 @@ Streamlit Result
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/car-price-prediction-api.git
+git clone https://github.com/burhan-arshad/car-price-prediction-api
 ```
 
 Move into the project directory:
